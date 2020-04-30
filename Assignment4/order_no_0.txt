@@ -1,0 +1,11 @@
+order_information: orderID=0, tableID=7, date=03/06/2019
+
+list_of_products:
+
+product=Cartofi prajiti, price=7.0
+
+product=Omleta, ingredients=Oua, Ciuperci, Mozarella, price=15.5
+
+product=Antricot de vita, ingredients=Carne de vita, Cartofi prajiti, Busuioc, price=36.0
+
+total_amount_to_pay: 58.5

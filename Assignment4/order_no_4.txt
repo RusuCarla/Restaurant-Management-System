@@ -1,0 +1,7 @@
+order_information: orderID=4, tableID=10, date=04/09/2018
+
+list_of_products:
+
+product=Antricot de vita, ingredients=Carne de vita, Cartofi prajiti, Busuioc, price=36.0
+
+total_amount_to_pay: 36.0
